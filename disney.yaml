@@ -1,4 +1,2 @@
 payload:
-- DOMAIN-REGEX,^live-[a-zA-Z0-9-]*\.dssedge\.com$
-- DOMAIN-REGEX,^live-[a-zA-Z0-9-]*\.dssott\.com$
-- DOMAIN-REGEX,^linear[a-zA-Z0-9-]*\.dssott\.com$
+  - DOMAIN-SUFFIX,dssott.com
